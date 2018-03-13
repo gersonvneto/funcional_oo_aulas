@@ -62,7 +62,7 @@ str(dados)
 
 # Trabalhando com o Enade
 
-Estamos estudando o banco de dados do Enade. O Enade é... (escrever o que é, pra que ele serve... QUARTA ENTREGAR)
+Estamos estudando o banco de dados do Enade. O Enade, Exame Nacional de Desempenho dos Estudantes, é um dos procedimentos de avaliação do Sistema Nacional de Avaliação da Educação Superior (Sinaes). O teste avalia o rendimento dos alunos dos cursos de graduação, ingressantes e concluintes, em relação aos conteúdos programáticos dos cursos em que estão matriculados. O exame é obrigatório para os alunos selecionados e condição indispensável para a emissão do histórico escolar. Seus resultados poderão produzir dados por instituição de educação superior, categoria administrativa, organização acadêmica, município, estado, região geográfica e Brasil. Assim, serão construídos referenciais que permitam a definição de ações voltadas à melhoria da qualidade dos cursos de graduação por parte de professores, técnicos, dirigentes e autoridades educacionais.
 
 Para fins práticos, vamos trabalhar com uma amostra aleatória previamente preparada para esta aula. Esta amostra está alocada no Github e nós podemos carregá-la no R direto da internet.
 
